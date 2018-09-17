@@ -1,0 +1,7 @@
+id=lpm
+name=Launcher3QuickStep Pie Mod
+version=v1.0
+versionCode=1
+author=Ludwig33
+description= Systemless adds/replace Launcher3QuickStep on /system/priv-app for this Pie Mod.
+minMagisk=17000
